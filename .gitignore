@@ -15,7 +15,8 @@ coverage/
 .eslintcache
 
 # Dotenv configs
-
+.env
+.env.*
 
 # Logs
 npm-debug.log
